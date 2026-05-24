@@ -67,6 +67,8 @@ common:
     url: https://docs.nginx.com/nginx-gateway-fabric/
   - type: Blog
     url: https://www.f5.com/company/blog/nginx
+  - type: LLMsTxt
+    url: https://docs.nginx.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
