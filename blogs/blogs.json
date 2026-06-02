@@ -2,13 +2,13 @@
   "repo": "nginx-service-mesh",
   "feeds": [
     {
-      "source": "https://www.f5.com/company/blog/nginx",
-      "feed_url": "",
+      "source": "https://docs.nginx.com/nginx-gateway-fabric/",
+      "feed_url": "https://docs.nginx.com/nginx-gateway-fabric/index.xml",
       "title": "",
       "saved": 0,
-      "error": "no_feed"
+      "method": "discovered"
     }
   ],
-  "fetched": "2026-05-17T20:48:52Z",
+  "fetched": "2026-06-01T23:35:02Z",
   "post_count": 0
 }
