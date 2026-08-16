@@ -6,16 +6,18 @@
       "feed_url": "https://www.f5.com/company/blog/nginx",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "none",
+      "error": "parse_failed"
     },
     {
       "source": "https://docs.nginx.com/nginx-gateway-fabric/",
       "feed_url": "https://docs.nginx.com/nginx-gateway-fabric/",
       "title": "",
       "saved": 0,
-      "method": "none"
+      "method": "none",
+      "error": "parse_failed"
     }
   ],
   "post_count": 4,
-  "fetched": "2026-08-06T14:08:46Z"
+  "fetched": "2026-08-15T12:11:08Z"
 }
