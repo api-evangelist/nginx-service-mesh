@@ -40,7 +40,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/nginx-service-mesh/refs/heads/main/apis.yml
 created: '2026-04-28'
 modified: '2026-04-28'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: nginx-service-mesh:control-plane-api
     name: NGINX Service Mesh Control Plane API
