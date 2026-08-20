@@ -53,6 +53,10 @@ apis:
       and the `nginx-meshctl` reference.
     humanURL: https://docs.nginx.com/nginx-service-mesh/reference/api-usage/
     tags:
+      - Control Plane
+      - Kubernetes
+      - REST
+    tags_raw:
       - API
       - Control Plane
       - Kubernetes
