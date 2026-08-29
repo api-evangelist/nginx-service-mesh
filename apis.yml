@@ -12,6 +12,17 @@ description: >-
   Microservices Bundle as of July 1, 2023, and the project's successor for
   ingress and L7 routing is NGINX Gateway Fabric.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: freemium
   onboarding: unknown
